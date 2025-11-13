@@ -1,109 +1,148 @@
-# Hi there, I'm PUSPO 👋
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack & Tools
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/pacman-cli?style=social)](https://github.com/pacman-cli)
-[![Profile Views](https://komarev.com/ghpvc/?username=pacman-cli&color=brightgreen)](https://github.com/pacman-cli)
+
+#### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F111A)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0F111A)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F111A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F111A)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F111A)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0F111A)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0F111A)
+
+#### 🎯 Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0F111A)
+![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0F111A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F111A)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F111A)
+
+#### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0F111A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F111A)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F111A)
+
+#### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F111A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F111A)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0F111A)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0F111A)
+
+#### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0F111A)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0F111A)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F111A)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F111A)
+
+#### 🛠️ Tools & IDEs
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0F111A)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0F111A)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0F111A)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0F111A)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0F111A)
 
 </div>
 
-## 🚀 About Me
+---
 
-Software Developer passionate about building scalable backend systems and solving complex problems. Currently exploring high-performance architectures and cloud-native technologies.
-
-- 🔭 Working on **Spring Boot** and **Go Fiber** applications
-- 🌱 Learning **Kubernetes**, **Docker**, and **System Monitoring** (Grafana)
-- 💡 Interested in **Backend Development**, **Microservices**, and **Performance Optimization**
-- ⚡ Building systems that handle millions of requests
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-### Backend & Frameworks
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Development Tools
-
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-## 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacman-cli&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/pacman-cli)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pacman-cli&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF&ring_color=C792EA" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pacman-cli&theme=material-palenight&hide_border=true&background=0D1117&ring=C792EA&fire=FF6B6B&currStreakLabel=89DDFF&sideLabels=82AAFF&currStreakNum=FFFFFF&dates=A6ACCD&sideNums=FFFFFF" alt="GitHub Streak" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacman-cli&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pacman-cli)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pacman-cli&theme=tokyonight&hide_border=true)](https://github.com/pacman-cli)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacman-cli&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&text_color=FFFFFF&icon_color=89DDFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pacman-cli&theme=material-palenight&hide_border=true&bg_color=0D1117&color=82AAFF&line=C792EA&point=89DDFF&area=true&area_color=C792EA" alt="Contribution Graph" />
 
 </div>
 
-## 🔥 Featured Projects
+---
 
-### 🎯 [Java-Learning](https://github.com/pacman-cli/Java-Learning)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="30" /> Featured Projects
 
-Deep dive into Java programming concepts and advanced features ⭐ 2
+<div align="center">
 
-### 💻 [DSA](https://github.com/pacman-cli/DSA)
+<a href="https://github.com/pacman-cli/Java-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=Java-Learning&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/pacman-cli/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=DSA&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
 
-Data Structures and Algorithms implementations in C++ ⭐ 5
+<a href="https://github.com/pacman-cli/GO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=GO&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/pacman-cli/discord-pdf-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=discord-pdf-bot&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
 
-### 🚀 [GO](https://github.com/pacman-cli/GO)
+<a href="https://github.com/pacman-cli/TailwindCSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=TailwindCSS&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/pacman-cli/backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pacman-cli&repo=backend&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=89DDFF&text_color=FFFFFF" />
+</a>
 
-Exploring Go programming language and building performant applications ⭐ 1
+</div>
 
-### 🤖 [discord-pdf-bot](https://github.com/pacman-cli/discord-pdf-bot)
+---
 
-Discord bot built with Go for PDF processing ⭐ 1
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="30" /> Current Focus
 
-### 🎨 [TailwindCSS](https://github.com/pacman-cli/TailwindCSS)
+<div align="center">
 
-Modern UI components and designs using TailwindCSS ⭐ 3
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="25" /> Building | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="25" /> Exploring | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> Mastering |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                   High-scale backend systems                                                                    |                                                               Go for performance apps                                                               |                                                                DSA & Algorithms                                                                |
+|                                                                    University Section System                                                                    |                                                                  System monitoring                                                                  |                                                            Competitive Programming                                                             |
+|                                                                   Microservices Architecture                                                                    |                                                                 Docker & Kubernetes                                                                 |                                                                Design Patterns                                                                 |
 
-## 💼 Current Focus
+</div>
 
-- 🏗️ Building **high-scale backend systems** with Spring Boot
-- 🔧 Exploring **Go** for performance-critical applications
-- 📊 Learning **system monitoring** with Grafana, Prometheus
-- ☸️ Deploying applications with **Docker** and **Kubernetes**
-- 🎯 Mastering **DSA** for competitive programming
+---
 
-## 📫 Connect with Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> GitHub Trophies
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/pacman-cli)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pacman-cli&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="30" /> Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F111A)](https://github.com/pacman-cli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F111A)](https://linkedin.com/in/puspo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0F111A)](https://twitter.com/puspo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F111A)](https://your-portfolio.com)
+
+</div>
 
 ---
 
 <div align="center">
-  
-💡 **"Building scalable systems, one commit at a time"**
 
-⭐️ From [pacman-cli](https://github.com/pacman-cli)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" /> Thanks for visiting!
+
+![Snake animation](https://raw.githubusercontent.com/pacman-cli/pacman-cli/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="40" /> **Show some ❤️ by starring some repositories!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="40" />
+
+**💬 "Code is poetry, and I'm still learning the verses"**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" /> From [pacman-cli](https://github.com/pacman-cli) with 💙
 
 </div>
