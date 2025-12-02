@@ -24,9 +24,9 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
-  </a>
+  </a> -->
 </p>
 
 #### 🗄️ Databases
@@ -35,15 +35,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
+  <!-- <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
-  </a>
+  </a> -->
 </p>
 
 #### ☁️ DevOps & Cloud
@@ -90,7 +90,7 @@
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="50" height="50"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
@@ -104,7 +104,7 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>
+  </a> -->
 </p>
 
 </div>
