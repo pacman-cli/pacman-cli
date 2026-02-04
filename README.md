@@ -45,6 +45,10 @@
   <a href="https://drive.google.com/uc?export=download&id=1kdsPhac4EReNEXJU6WfuNg9RPe4d2FvJ">
     <img src="https://img.shields.io/badge/Resume-2DD4BF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=1f2937&color=059669"/>
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/pacman-cli/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1f2937&color=FFA116"/>
+  </a>
 
 </div>
 
@@ -303,7 +307,9 @@ const puspo = {
 | RESTful APIs | Kubernetes Orchestration | Clean Architecture |
 
 </div>
+<br/>
 
+[![wakatime](https://wakatime.com/badge/user/018ebcf8-02a2-4fb0-953f-0f99f788a846.svg)](https://wakatime.com/@018ebcf8-02a2-4fb0-953f-0f99f788a846)
 <br/>
 
 <!--
