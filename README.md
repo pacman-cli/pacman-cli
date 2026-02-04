@@ -12,33 +12,34 @@
    ╚════════════════════════════════════════════════════════════════════════╝
 -->
 
+
 <div align="center">
 
-  <!-- Animated Wave Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=MD.%20Ashikur%20Rahman%20Puspo&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20@%20UIU%20%7C%20Aspiring%20Software%20Engineer&descSize=16&descAlignY=60"/>
+  <!-- Animated Wave Background (Teal/Cyan Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=MD.%20Ashikur%20Rahman%20Puspo&fontSize=32&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergraduate%20%E2%80%A2%20Developer&descSize=16&descAlignY=62"/>
 
   <!-- Typing Animation -->
   <a href="https://github.com/pacman-cli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=338295&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Building+scalable+backend+systems;Explaining+complex+tech+simply;Learning+today%2C+building+tomorrow;Java+%7C+Spring+%7C+Go+%7C+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=CSE+Undergraduate;at+United+International+University;Passionate+about+clean%2C+scalable+software;Building+backend+systems+%26+solving+problems;Learning+today%2C+building+tomorrow" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Social Badges (Clean & Minimal) -->
+  <!-- Social Badges (Teal/Cyan Theme) -->
   <a href="https://linkedin.com/in/iampuspo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24292e"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937&color=0A66C2"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/iam_puspo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=24292e"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1f2937&color=1DA1F2"/>
   </a>
   &nbsp;
   <a href="https://pacman-puspo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=24292e"/>
+    <img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937&color=059669"/>
   </a>
   &nbsp;
-  <a href="mailto:puspopuspo520@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292e"/>
+  <a href="mailto:puspo.ahmed@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937&color=D14836"/>
   </a>
 
 </div>
@@ -50,8 +51,7 @@
    ║                       SECTION 2: ABOUT ME                              ║
    ╚════════════════════════════════════════════════════════════════════════╝
 -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Person/Student.png" width="30"/> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
@@ -176,24 +176,26 @@ const puspo = {
    ╚════════════════════════════════════════════════════════════════════════╝
 -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<!-- Stats Card -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=pacman-cli&show_icons=true&count_private=true&hide_border=true&title_color=0077b5&icon_color=0077b5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+<div align="center">
+
+<!-- Stats & Languages Table -->
+<!-- Stats & Languages (Centered & Stacked) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pacman-cli&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pacman-cli&theme=tokyonight" />
+</p>
 
 <br/>
 
-<!-- Languages & Streak -->
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacman-cli&layout=compact&hide_border=true&title_color=0077b5&text_color=c9d1d9&bg_color=0d1117&langs_count=6&hide=jupyter%20notebook" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pacman-cli&theme=dark&hide_border=true&background=0D1117&ring=0077b5&fire=FF6B6B&currStreakLabel=0077b5&sideLabels=c9d1d9&currStreakNum=ffffff&dates=8B949E" alt="GitHub Streak" />
-</p>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pacman-cli&bg_color=0d1117&color=0077b5&line=0077b5&point=c9d1d9&area=true&area_color=0077b5&hide_border=true" width="94%" alt="Activity Graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pacman-cli&bg_color=0d1117&color=2DD4BF&line=38bdf8&point=e5e7eb&area=true&area_color=0f3642&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -281,6 +283,10 @@ const puspo = {
    ║                  SECTION 6: CURRENT FOCUS & LEARNING                   ║
    ╚════════════════════════════════════════════════════════════════════════╝
 -->
+
+<a href="https://github.com/pacman-cli?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Works_%E2%86%92-0d1117?style=for-the-badge&logo=github&logoColor=white&layerColor=2DD4BF"/>
+</a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Current Roadmap
 
