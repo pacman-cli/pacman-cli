@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937&color=D14836"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1Cw4MHjyowUWtxXzF8hVb-Z33wsnwCwRw">
+  <a href="https://drive.google.com/uc?export=download&id=1RveSDodNPrX5EpQjgmHeiV1BBvUVfqD-">
     <img src="https://img.shields.io/badge/Resume-2DD4BF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=1f2937&color=059669"/>
   </a>
 
