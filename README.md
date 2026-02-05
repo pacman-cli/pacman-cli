@@ -170,6 +170,31 @@ const puspo = {
       <br/><sub>NextJS</sub>
     </td>
   </tr>
+  <tr>
+    <td width="90"></td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+    <br/><sub>NumPy</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+    <br/><sub>Pandas</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+    <br/><sub>Matplotlib</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+    <br/><sub>Scikit-Learn</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+    <br/><sub>PyTorch</sub>
+  </td>
+    <td width="90"></td>
+</tr>
+
 </table>
 
 </div>
