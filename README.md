@@ -332,6 +332,9 @@ const puspo = {
 | RESTful APIs | Kubernetes Orchestration | Clean Architecture |
 
 </div>
+
+[![MCPize](https://mcpize.com/badge/@sk1969363/forecast-accuracy-auditor-mcp?style=plastic)](https://mcpize.com/mcp/forecast-accuracy-auditor-mcp)
+
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/018ebcf8-02a2-4fb0-953f-0f99f788a846.svg)](https://wakatime.com/@018ebcf8-02a2-4fb0-953f-0f99f788a846)
